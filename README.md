@@ -1,6 +1,7 @@
 # Spotify-Based Song Popularity Study
 
-## About the Project
+## About the Project 
+Github Link: https://github.com/Tannaz-mohamadi/E220663_DI501_Project_Interim_Report/settings
 This repository contains the interim work for a DI501 project on song popularity. The analysis is based on Spotify track-level data from the SpotGenTrack dataset.
 
 The study has two connected goals. First, it looks at whether popularity changes across songs with different energy and danceability profiles. Second, it uses a small set of Spotify audio variables to predict popularity in a regression setting.
@@ -8,7 +9,7 @@ The study has two connected goals. First, it looks at whether popularity changes
 ## Files Included
 
 - `spotify_tracks.csv`  
-  Main dataset used in the analysis. It includes popularity and Spotify audio features.
+  No adjustments are made on this file. Due to the size I could not upload it to github, so please copy paste the original file to the data folder. Main dataset      used in the analysis. It includes popularity and Spotify audio features.
 
 - `spotify_albums.csv`  
   Used for dataset inspection and key checks.
