@@ -1,0 +1,5 @@
+item,value
+dataset_rows,101939.0
+train_size,81551.0
+test_size,20388.0
+baseline_mean_popularity,39.77122291572145

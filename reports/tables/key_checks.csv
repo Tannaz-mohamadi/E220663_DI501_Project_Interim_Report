@@ -1,0 +1,4 @@
+dataset,key_column,rows,missing,unique,is_unique,duplicate_keys
+tracks,id,101939,0,101939,True,0
+albums,track_id,75511,0,75511,True,0
+artists,track_id,56129,0,44895,False,11234
